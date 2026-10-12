@@ -2,18 +2,7 @@
 
 A minimal, educational implementation of a distributed in-memory database designed to run entirely within Google Colab notebooks. This project demonstrates core distributed systems concepts in Python without external dependencies.
 
-## 📚 Table of Contents
-- [Overview](#overview)
-- [Features](#-features)
-- [Architecture](#-architecture)
-- [Quick Start](#-quick-start)
-- [Core Concepts Explained](#-core-concepts-explained)
-- [API Reference](#-api-reference)
-- [Learning Journey](#-learning-journey)
-- [Use Cases](#-use-cases)
-- [Limitations](#-limitations)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
 ## Overview
 
